@@ -1,0 +1,20 @@
+.footer {
+  text-align: center;
+  padding: 5px;
+  color: rgb(249, 246, 253);
+  position: static;
+  margin-top: 200px;
+  margin-bottom: 0;
+  background-color: rgb(167, 76, 227);
+  border-radius: 22% 71% 24% 24% / 14% 63% 0% 0%;
+  border-top: solid 8px rgb(190, 45, 173);
+  opacity: 1;
+}
+.footer-section ul {
+  margin-left: 40%;
+  display: flex;
+  gap: 5px;
+}
+.footer-section ul a {
+  color: aliceblue;
+}
